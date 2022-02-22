@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+**About me**
+- 💼 I am writing Golang in IBM
+- ❤️ I am a cat parent!
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhuoxiLi&hide=stars&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
