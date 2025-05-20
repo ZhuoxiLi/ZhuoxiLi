@@ -18,4 +18,6 @@ Here are some ideas to get you started:
 - 💼 I am writing Golang/any language in all the places!
 - ❤️ I am a cat parent!
 
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhuoxiLi&hide=stars&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
+-->
